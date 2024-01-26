@@ -1,0 +1,10 @@
+D:\Test_Git\test_git_02\ThucHanhTuan3Win\DoAnNhomWin\bin\Debug\DoAnNhomWin.exe.config
+D:\Test_Git\test_git_02\ThucHanhTuan3Win\DoAnNhomWin\bin\Debug\DoAnNhomWin.exe
+D:\Test_Git\test_git_02\ThucHanhTuan3Win\DoAnNhomWin\bin\Debug\DoAnNhomWin.pdb
+D:\Test_Git\test_git_02\ThucHanhTuan3Win\DoAnNhomWin\obj\Debug\DoAnNhomWin.csproj.AssemblyReference.cache
+D:\Test_Git\test_git_02\ThucHanhTuan3Win\DoAnNhomWin\obj\Debug\DoAnNhomWin.csproj.SuggestedBindingRedirects.cache
+D:\Test_Git\test_git_02\ThucHanhTuan3Win\DoAnNhomWin\obj\Debug\DoAnNhomWin.Properties.Resources.resources
+D:\Test_Git\test_git_02\ThucHanhTuan3Win\DoAnNhomWin\obj\Debug\DoAnNhomWin.csproj.GenerateResource.cache
+D:\Test_Git\test_git_02\ThucHanhTuan3Win\DoAnNhomWin\obj\Debug\DoAnNhomWin.csproj.CoreCompileInputs.cache
+D:\Test_Git\test_git_02\ThucHanhTuan3Win\DoAnNhomWin\obj\Debug\DoAnNhomWin.exe
+D:\Test_Git\test_git_02\ThucHanhTuan3Win\DoAnNhomWin\obj\Debug\DoAnNhomWin.pdb
