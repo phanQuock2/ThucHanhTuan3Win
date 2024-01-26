@@ -14,6 +14,7 @@ namespace DoAnNhomWin
         [STAThread]
         static void Main()
         {
+            //Phan Quoc chinh sua
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
