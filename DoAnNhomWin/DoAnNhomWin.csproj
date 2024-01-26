@@ -52,11 +52,19 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="FrmNhatLinh.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmNhatLinh.Designer.cs">
       <DependentUpon>FrmNhatLinh.cs</DependentUpon>
+=======
+    <Compile Include="FPhanQuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPhanQuoc.Designer.cs">
+      <DependentUpon>FPhanQuoc.cs</DependentUpon>
+>>>>>>> 115de1db4768f06efd48566b41e12e67b4bf359e
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
