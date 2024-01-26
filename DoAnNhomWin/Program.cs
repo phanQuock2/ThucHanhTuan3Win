@@ -11,11 +11,9 @@ namespace DoAnNhomWin
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        /// 
-
+        [STAThread]
 
         //Phan Quoc chinh sua
-        [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
