@@ -14,11 +14,15 @@ namespace DoAnNhomWin
         /// 
 
 
-        //Phan Quoc chinh sua
+ 
         [STAThread]
 
 
         //Nhat Linh chinh sua
+
+        //Quoc chinh sua lan 2
+
+
         static void Main()
         {
             Application.EnableVisualStyles();
